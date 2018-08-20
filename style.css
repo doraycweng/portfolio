@@ -163,7 +163,9 @@ footer div{
     margin: 0 auto;
 }
 
-#intro p{
+
+.para-span{
+    display: block;
     line-height:1.8;
 }
 
@@ -200,7 +202,9 @@ img{
     padding:13px;
     border: 1px solid gray;
     background-color: white;
+    color:black;
     cursor: pointer;
+    text-align: center;
 }
 
 .view:hover{
