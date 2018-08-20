@@ -554,7 +554,7 @@ img{
         width: 31%;
     }
 
-    .overview-byom-text div .value{
+    .overview-byom-text div .value, .overview-byom-text div .label{
         width: 100%;
     }
 
